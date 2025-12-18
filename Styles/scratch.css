@@ -1,0 +1,77 @@
+/* General Format */
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    color: navy;
+    background-color: rgb(190, 234, 252); 
+    border-style: solid;
+    padding-top: 0px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    text-align: center;
+
+    p {
+        font-size: 13px;
+    }
+}
+
+.title {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.description {
+    font-size: 15px;
+    text-align: center;
+}
+
+.desc {
+    background-color: rgb(190, 234, 252);
+    padding: 30px 50px;
+    margin: 30px auto;
+}
+
+.journey-text {
+    border-style: solid;
+    background-color: rgb(190, 234, 252);
+    padding-left: 15px;
+    padding-right: 15px;
+    border-color: navy;
+
+    h3 {
+        color: navy;
+    }
+
+}
+
+.mediums {
+    border-style: solid;
+    background-color: rgb(190, 234, 252);
+    padding-left: 15px;
+    padding-right: 15px;
+    border-color: navy;
+
+    h3 {
+        color: navy;
+    }
+    
+}
+
+.gallery {
+    border-style: solid; 
+    padding: 15px;
+    padding-top: 0%;
+    border-color: navy;
+    background-color: rgb(190, 234, 252);
+}
+
+.video {
+    border-style: solid; 
+    padding: 15px;
+    padding-top: 0%;
+    border-color: navy;
+    background-color: rgb(190, 234, 252);
+}
